@@ -17,6 +17,13 @@ The project is still under development, and the upcoming updates will focus on t
 - [x] Create a Javascipt file to creat a scearch tool in the website
 
 
+The following tools were used in the construction of the project:
+
+- [HTML](<https://developer.mozilla.org/pt-BR/docs/Web/HTML/>)
+- [CSS](<https://developer.mozilla.org/pt-BR/docs/Web/CSS/>)
+- [React](<https://pt-br.reactjs.org/>)
+
+Direct Website: [here](<https://spotity-thales.vercel.app/>)
 
 ## 🤝 Creator
 
